@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "image": "/public/takeout-1-001/20250917_135735.jpg",
+    "dogName": "Fred",
+    "description": "Fred andando todo tristonho"
+  },
+  {
+    "id": 2,
+    "image": "/public/takeout-1-001/20250917_135741.jpg",
+    "dogName": "Fred",
+    "description": "Fred e seu olhar esverdiado"
+  },
+  {
+    "id": 3,
+    "image": "/public/takeout-1-001/20250917_135749.jpg",
+    "dogName": "Fred",
+    "description": "Fred posando"
+  },
+  {
+    "id": 4,
+    "image": "/public/takeout-1-001/20250917_135750.jpg",
+    "dogName": "Fred",
+    "description": "Fred dando as costas"
+  },
+  {
+    "id": 5,
+    "image": "/public/takeout-1-001/20250917_135752.jpg",
+    "dogName": "Spike",
+    "description": "Spike brincando com seu brinquedinho"
+  },
+  {
+    "id": 6,
+    "image": "/public/takeout-1-001/20250917_135756.jpg",
+    "dogName": "Spike",
+    "description": "Spike brincando com seu brinquedinho"
+  },
+  {
+    "id": 7,
+    "image": "/public/takeout-1-001/20250917_135804.jpg",
+    "dogName": "Spike",
+    "description": "Spike brincando com seu brinquedinho"
+  },
+  {
+    "id": 8,
+    "image": "/public/takeout-1-001/20250917_135805.jpg",
+    "dogName": "Spike",
+    "description": "Spike brincando com seu brinquedinho"
+  },
+  {
+    "id": 9,
+    "image": "/public/takeout-1-001/20250917_135806.jpg",
+    "dogName": "Spike",
+    "description": "Spike brincando com seu brinquedinho"
+  },
+  {
+    "id": 10,
+    "image": "/public/takeout-1-001/20250917_135805.jpg",
+    "dogName": "Spike",
+    "description": "Spike brincando com seu brinquedinho"
+  },
+  {
+    "id": 11,
+    "image": "/public/takeout-1-001/20250918_190634.jpg",
+    "dogName": "Gata da rua",
+    "description": "Chamando minha vó"
+  },
+  {
+    "id": 12,
+    "image": "/public/takeout-1-001/20250918_190635.jpg",
+    "dogName": "Gata da rua",
+    "description": "Chamando minha vó"
+  },
+  {
+    "id": 13,
+    "image": "/public/takeout-1-001/20250918_190636.jpg",
+    "dogName": "Gata da rua",
+    "description": "Chamando minha vó"
+  },
+  {
+    "id": 14,
+    "image": "/public/takeout-1-001/20250918_190637.jpg",
+    "dogName": "Gata da rua",
+    "description": "Chamando minha vó"
+  },
+  {
+    "id": 15,
+    "image": "/public/takeout-1-001/20250919_191232.jpg",
+    "dogName": "Fred",
+    "description": "Pobre coitado"
+  },
+  {
+    "id": 16,
+    "image": "/public/takeout-1-001/20250919_191234.jpg",
+    "dogName": "Fred",
+    "description": "Cara de coitado"
+  },
+  {
+    "id": 17,
+    "image": "/public/takeout-1-001/20250919_191241.jpg",
+    "dogName": "Gata da rua",
+    "description": "Cara de coitado"
+  },
+  {
+    "id": 18,
+    "image": "/public/takeout-1-001/20250919_191242.jpg",
+    "dogName": "Fred",
+    "description": "Cara de coitado"
+  },
+  {
+    "id": 19,
+    "image": "/public/takeout-1-001/20250919_191259.jpg",
+    "dogName": "Spike",
+    "description": "Andando rebolando"
+  },
+  {
+    "id": 20,
+    "image": "/public/takeout-1-001/20250926_195908.jpg",
+    "dogName": "Spike",
+    "description": "Spike na vóvó"
+  },
+  {
+    "id": 21,
+    "image": "/public/takeout-1-001/20250926_195919.jpg",
+    "dogName": "Spike",
+    "description": "Lambendo os beiços"
+  },
+  {
+    "id": 22,
+    "image": "/public/takeout-1-001/20250926_195920.jpg",
+    "dogName": "Spike",
+    "description": "MaluCÃO"
+  },
+  {
+    "id": 23,
+    "image": "/public/takeout-1-001/20250929_194742.jpg",
+    "dogName": "Toby",
+    "description": "Dormindo a pampa"
+  },
+  {
+    "id": 24,
+    "image": "/public/takeout-1-001/20250929_194813.jpg",
+    "dogName": "Fêfê",
+    "description": "Boladona comigo"
+  },
+  {
+    "id": 25,
+    "image": "/public/takeout-1-001/20250929_194814.jpg",
+    "dogName": "Fêfê",
+    "description": "Boladona comigo"
+  },
+  {
+    "id": 26,
+    "image": "/public/takeout-1-001/20250929_194815.jpg",
+    "dogName": "Fêfê",
+    "description": "Boladona comigo"
+  },
+  {
+    "id": 27,
+    "image": "/public/takeout-1-001/20251004_185609.jpg",
+    "dogName": "Spike",
+    "description": "Mordendo seu brinquedo"
+  },
+  {
+    "id": 28,
+    "image": "/public/takeout-1-001/20251005_094150.jpg",
+    "dogName": "Fred",
+    "description": "Xeretando"
+  },
+  {
+    "id": 29,
+    "image": "/public/takeout-1-001/20251005_094152.jpg",
+    "dogName": "Fred",
+    "description": "Tramoiando a minha comida"
+  },
+  {
+    "id": 30,
+    "image": "/public/takeout-1-001/20251005_094154.jpg",
+    "dogName": "Fred",
+    "description": "Tramoiando a minha comida"
+  },
+  {
+    "id": 31,
+    "image": "/public/takeout-1-001/20251006_200328.jpg",
+    "dogName": "Fred",
+    "description": "Deitadinho "
+  },
+  {
+    "id": 32,
+    "image": "/public/takeout-1-001/20251006_200339.jpg",
+    "dogName": "Fred",
+    "description": "Zoiudo"
+  },
+  {
+    "id": 33,
+    "image": "/public/takeout-1-001/20251006_200340.jpg",
+    "dogName": "Fred",
+    "description": "Deitadinho "
+  },
+  {
+    "id": 34,
+    "image": "/public/takeout-1-001/20251006_200453.jpg",
+    "dogName": "Fred",
+    "description": "Sorridente"
+  },
+  {
+    "id": 35,
+    "image": "/public/takeout-1-001/20251006_200456.jpg",
+    "dogName": "Fred",
+    "description": "Sorridente"
+  },
+  {
+    "id": 36,
+    "image": "/public/takeout-1-001/20251006_200458.jpg",
+    "dogName": "Fred",
+    "description": "Felizao"
+  },
+  {
+    "id": 37,
+    "image": "/public/takeout-1-001/20251017_205119.jpg",
+    "dogName": "Fred",
+    "description": "Felizao"
+  },
+  {
+    "id": 38,
+    "image": "/public/takeout-1-001/20251017_205145.jpg",
+    "dogName": "Fred",
+    "description": "Felizao"
+  },
+  {
+    "id": 39,
+    "image": "/public/takeout-1-001/20251017_205801.jpg",
+    "dogName": "Spike",
+    "description": "Boladao querendo dormir"
+  },
+  {
+    "id": 40,
+    "image": "/public/takeout-1-001/20251017_205808.jpg",
+    "dogName": "Spike",
+    "description": "Preparando para dormir"
+  },
+  {
+    "id": 41,
+    "image": "/public/takeout-1-001/20251017_205811.jpg",
+    "dogName": "Spike",
+    "description": "De olho"
+  },
+  {
+    "id": 42,
+    "image": "/public/takeout-1-001/20251018_111803.jpg",
+    "dogName": "Spike",
+    "description": "Dorminho HD"
+  },
+  {
+    "id": 43,
+    "image": "/public/takeout-1-001/20251018_111804.jpg",
+    "dogName": "Spike",
+    "description": "Dorminhoco"
+  },
+  {
+    "id": 44,
+    "image": "/public/takeout-1-001/20251018_123336.jpg",
+    "dogName": "Scooby",
+    "description": "Gosta de um carinho"
+  },
+  {
+    "id": 45,
+    "image": "/public/takeout-1-001/20251018_123338.jpg",
+    "dogName": "Scooby",
+    "description": "Coitadissimo"
+  },
+  {
+    "id": 46,
+    "image": "/public/takeout-1-001/20251018_123339.jpg",
+    "dogName": "Scooby",
+    "description": "Carinha de coitado"
+  },
+  {
+    "id": 47,
+    "image": "/public/takeout-1-001/20251018_205556.jpg",
+    "dogName": "Spike",
+    "description": "Tirando um soninho"
+  },
+  {
+    "id": 48,
+    "image": "/public/takeout-1-001/20251026_122054.jpg",
+    "dogName": "Fred e Spike",
+    "description": "Curtindo o dia"
+  },
+  {
+    "id": 49,
+    "image": "/public/takeout-1-001/20251020_182610.jpg",
+    "dogName": "Fred",
+    "description": "Felizao"
+  },
+  {
+    "id": 50,
+    "image": "/public/takeout-1-001/20251020_182613.jpg",
+    "dogName": "Fred",
+    "description": "Felizao"
+  }
+]
