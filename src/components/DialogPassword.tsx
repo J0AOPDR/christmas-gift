@@ -26,8 +26,8 @@ export function DialogPassword({ open, onOpenChange }: DialogPasswordProps) {
   const isCorrectAnswerRatio = answer === "cowboy-bebop";
   const isCorrectDate =
     date &&
-    date.getFullYear() === 2025 &&
-    date.getMonth() === 11 &&
+    date.getFullYear() === 2007 &&
+    date.getMonth() === 1 &&
     date.getDate() === 6;
 
   return (
